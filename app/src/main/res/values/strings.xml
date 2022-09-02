@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TextingForwarder</string>
+
+    <string name="main_email_label">email:</string>
+    <string name="main_protocol_label">protocol:</string>
+    <string name="main_host_label">host:</string>
+    <string name="main_port_label">port:</string>
+    <string name="main_password_label">password:</string>
+    <string name="main_recipient_label">recipient:</string>
+
+    <string name="main_save_button">Save</string>
+
+    <string name="shared_preference_file">shared_preference_file</string>
+    <string name="email_sender_protocol">email_sender_protocol</string>
+    <string name="email_sender_host">email_sender_host</string>
+    <string name="email_sender_port">email_sender_port</string>
+    <string name="email_sender_userName">email_sender_userName</string>
+    <string name="email_sender_password">email_sender_password</string>
+    <string name="recipient_email">recipient_email</string>
+</resources>
