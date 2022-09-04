@@ -17,4 +17,10 @@
     <string name="email_sender_userName">email_sender_userName</string>
     <string name="email_sender_password">email_sender_password</string>
     <string name="recipient_email">recipient_email</string>
+
+    <string name="channel_name">background</string>
+    <string name="channel_description">Enable notification permission to keep TextingForwarder running in background.</string>
+
+    <string name="notification_title">TextingForwarder</string>
+    <string name="notification_content">TextingForwarder is running on background.</string>
 </resources>
